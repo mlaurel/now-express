@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "now-express",
+    "builds": [
+        { "src": "**/*.js", "use": "@now/node" }
+    ]
+}
